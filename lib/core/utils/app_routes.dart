@@ -52,7 +52,7 @@ abstract class AppRoutes {
   static const kAddreview = '/Addreview';
 
   static final router = GoRouter(
-    initialLocation: AppRoutes.kNavbar,
+    initialLocation: AppRoutes.kSplash,
     routes: [
       GoRoute(
         path: kDoctorList,
