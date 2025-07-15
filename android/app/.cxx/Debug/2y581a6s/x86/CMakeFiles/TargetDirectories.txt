@@ -1,0 +1,2 @@
+G:/flutter projects/new/Tumor-Detector-/smart_tumour_detector/android/app/.cxx/Debug/2y581a6s/x86/CMakeFiles/edit_cache.dir
+G:/flutter projects/new/Tumor-Detector-/smart_tumour_detector/android/app/.cxx/Debug/2y581a6s/x86/CMakeFiles/rebuild_cache.dir

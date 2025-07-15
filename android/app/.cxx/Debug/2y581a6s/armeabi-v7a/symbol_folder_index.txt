@@ -1,0 +1,1 @@
+G:\flutter projects\new\Tumor-Detector-\smart_tumour_detector\build\app\intermediates\cxx\Debug\2y581a6s\obj\armeabi-v7a
